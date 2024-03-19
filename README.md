@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **selvinjeralds2000@gmail.com**
 
-- ⚡ Fun fact **Creeper, the first Virus Fugaku supercomputer is the world’s fastest computer**
+- ⚡ Fun fact **Creeper, the first Virus**
+
+-  ** Fugaku supercomputer is the world’s fastest computer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
